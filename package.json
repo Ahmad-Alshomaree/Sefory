@@ -1,0 +1,9 @@
+{
+  "name": "safory-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix backend run dev",
+    "build": "npm --prefix backend run build",
+    "start": "npm --prefix backend run start"
+  }
+}

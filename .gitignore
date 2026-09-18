@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+
+# Flutter
+.dart_tool/
+.build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+build/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
